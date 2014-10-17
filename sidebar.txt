@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pev:home|Door43 (pev)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pev|d43-pev repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pev/archive/master.zip|d43-pev.zip]]
+
+**Recent Changes**
+{{changes>ns = pev}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pev|Ethnologue data]]
+
